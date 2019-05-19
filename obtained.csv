@@ -1,0 +1,597 @@
+,HHGG age,obtained
+1,17.0,Bought it in a bundle
+2,18.0,Given to me as a gift
+3,18.0,Bought it for myself
+4,12.0,Bought it for myself
+5,29.0,Bought it for myself
+6,12.0,School
+7,12.0,Borrowed from Family
+8,16.0,Bought it for myself
+9,13.0,Given to me as a gift
+10,11.0,Borrowed from Family
+11,10.0,Given to me as a gift
+12,15.5,Library
+13,18.0,Bought it for myself
+14,19.0,Bought it for myself
+15,13.5,Bought it for myself
+16,11.0,Given to me as a gift
+17,16.0,Bought it for myself
+18,14.0,Bought it for myself
+19,13.0,Bought it for myself
+20,16.0,Bought it for myself
+21,14.0,Library
+22,13.0,Bought it for myself
+23,15.0,Borrowed from Family
+24,25.0,Bought it for myself
+25,13.0,Bought it for myself
+26,23.0,Bought it for myself
+27,15.0,Library
+28,16.0,Bought it for myself
+29,13.0,Given to me as a gift
+30,9.0,Given to me as a gift
+31,15.0,Borrowed from Family
+32,14.0,Bought it for myself
+33,16.0,Borrowed from Family
+34,14.0,Given to me as a gift
+35,16.0,Given to me as a gift
+36,15.0,Bought it for myself
+37,,Library
+38,24.0,Bought it for myself
+39,14.0,Bought it for myself
+40,18.0,Bought it for myself
+41,27.0,Bought it for myself
+42,,Given to me as a gift
+43,14.0,Doesn't Remember
+44,16.0,Borrowed from friends
+45,17.0,Given to me as a gift
+46,16.0,Library
+47,16.0,Bought it for myself
+48,11.0,Bought it for myself
+49,12.5,Bought it for myself
+50,18.0,Bought it for myself
+51,19.0,Borrowed from Family
+52,16.0,Bought it for myself
+53,10.0,Borrowed from Family
+54,13.0,Borrowed from friends
+55,15.0,Given to me as a gift
+56,14.0,Bought it for myself
+57,25.0,Bought it for myself
+58,12.0,Borrowed from Family
+59,12.0,Library
+60,16.0,Bought it for myself
+61,8.0,Borrowed from Family
+62,11.0,Library
+63,18.0,Borrowed from friends
+64,26.0,Borrowed from Friends or Family
+65,19.0,Bought it for myself
+66,14.0,Bought it for myself
+67,22.0,Bought it for myself
+68,12.0,Library
+69,25.0,Given to me as a gift
+70,14.0,Borrowed from Family
+71,22.0,Bought it for myself
+72,27.0,Bought it for myself
+73,17.0,Bought it for myself
+74,14.0,Given to me as a gift
+75,15.0,Given to me as a gift
+76,16.0,Given to me as a gift
+77,13.0,Library
+78,13.0,Given to me as a gift
+79,23.0,Given to me as a gift
+80,16.0,Library
+81,10.0,Given to me as a gift
+82,24.0,Bought it for myself
+83,18.0,Bought it for myself
+84,19.0,Given to me as a gift
+85,13.0,Bought it for myself
+86,22.0,Given to me as a gift
+87,28.0,Bought it for myself
+88,18.0,Bought it for myself
+89,16.0,Bought it for myself
+90,25.0,Bought it for myself
+91,14.0,Given to me as a gift
+92,14.0,Given to me as a gift
+93,16.0,Borrowed from friends
+94,18.0,Bought it for myself
+95,17.0,Online Platform
+96,12.0,Given to me as a gift
+97,20.0,Bought it for myself
+98,12.0,Borrowed from Family
+99,17.0,Borrowed from friends
+100,19.0,Bought it for myself
+101,16.0,Bought it for myself
+102,16.0,Bought it for myself
+103,23.0,Bought it for myself
+104,19.0,Given to me as a gift
+105,16.0,Bought it for myself
+106,14.0,Borrowed from Family
+107,24.0,Given to me as a gift
+108,9.0,Borrowed from Family
+109,12.0,Given to me as a gift
+110,17.0,Library
+111,19.0,Bought it for myself
+112,16.0,Bought it for myself
+113,8.0,Given to me as a gift
+114,25.0,Borrowed from friends
+115,14.0,Bought it for myself
+116,20.0,Bought it for myself
+117,28.0,Borrowed from Family
+118,16.0,Borrowed from friends
+119,14.0,Library
+120,14.0,Library
+121,19.0,Bought it for myself
+122,21.0,Borrowed from friends
+123,21.0,Given to me as a gift
+124,16.0,Bought it for myself
+125,23.0,Bought it for myself
+126,25.0,Bought it for myself
+127,18.0,Borrowed from friends
+128,12.0,Bought it for myself
+129,20.0,Bought it for myself
+130,19.0,Library
+131,17.0,Bought it for myself
+132,25.0,Bought it for myself
+133,18.0,Bought it for myself
+134,19.0,Bought it for myself
+135,14.0,Bought it for myself
+136,12.0,Library
+137,11.5,Bought it for myself
+138,17.0,Online Platform
+139,12.0,Given to me as a gift
+140,22.5,Given to me as a gift
+141,11.0,Bought it for myself
+142,,Bought it for myself
+143,15.0,Given to me as a gift
+144,13.0,Library
+145,16.0,Bought it for myself
+146,13.0,Bought it for myself
+147,11.0,Given to me as a gift
+148,13.0,Borrowed from Family
+149,16.0,Given to me as a gift
+150,12.5,Given to me as a gift
+151,16.0,Given to me as a gift
+152,14.5,Bought it in a bundle
+153,13.0,Bought it for myself
+154,19.0,Bought it for myself
+155,16.0,Library
+156,12.0,Borrowed from Family
+157,17.0,Bought it for myself
+158,19.0,Borrowed from friends
+159,14.0,Library
+160,12.0,Bought it for myself
+161,30.0,Bought it for myself
+162,13.0,Bought it for myself
+163,14.0,Bought it for myself
+164,10.0,Given to me as a gift
+165,14.5,Borrowed from Family
+166,12.0,Bought it for myself
+167,14.0,Library
+168,8.0,Given to me as a gift
+169,16.0,Bought it for myself
+170,21.0,Given to me as a gift
+171,18.0,Borrowed from Family
+172,12.0,Borrowed from Family
+173,20.0,Bought it for myself
+174,16.0,Bought it for myself
+175,21.0,Given to me as a gift
+176,11.0,School
+177,25.0,Bought it for myself
+178,14.0,Borrowed from friends
+179,12.0,Given to me as a gift
+180,11.0,Given to me as a gift
+181,25.0,Bought it for myself
+182,14.0,Bought it for myself
+183,14.0,Bought it for myself
+184,16.0,Bought it for myself
+185,13.0,Borrowed from Family
+186,18.0,Bought it for myself
+187,14.0,Library
+188,16.0,Given to me as a gift
+189,12.0,Given to me as a gift
+190,12.0,Given to me as a gift
+191,20.0,Bought it for myself
+192,15.0,Library
+193,18.0,Given to me as a gift
+194,16.0,Bought it for myself
+195,18.0,Given to me as a gift
+196,16.0,Given to me as a gift
+197,18.0,Bought it for myself
+198,8.0,Given to me as a gift
+199,13.0,Given to me as a gift
+200,15.0,Bought it for myself
+201,28.0,Given to me as a gift
+202,13.0,Pirated
+203,16.0,Given to me as a gift
+204,10.0,Given to me as a gift
+205,18.0,Bought it for myself
+206,15.0,Bought it for myself
+207,15.5,Pirated
+208,18.0,Library
+209,27.0,Library
+210,16.0,Bought it for myself
+211,16.0,Library
+212,12.0,Borrowed from Family
+213,16.0,Given to me as a gift
+214,26.0,Bought it for myself
+215,12.0,Given to me as a gift
+216,19.0,Bought it for myself
+217,22.0,Bought it for myself
+218,10.0,Given to me as a gift
+219,17.0,Bought it for myself
+220,16.0,Bought it for myself
+221,12.0,Library
+222,13.0,Library
+223,12.0,Given to me as a gift
+224,13.0,Library
+225,14.0,Bought it for myself
+226,13.0,Library
+227,21.0,Bought it for myself
+228,29.0,Library
+229,13.0,Bought it for myself
+230,13.0,
+231,12.0,Library
+232,24.0,Bought it for myself
+233,11.0,Bought it for myself
+234,8.0,Given to me as a gift
+235,16.0,Given to me as a gift
+236,16.0,Bought it for myself
+237,17.0,Library
+238,10.0,Given to me as a gift
+239,13.0,Given to me as a gift
+240,14.0,Given to me as a gift
+241,13.0,Bought it for myself
+242,11.0,Given to me as a gift
+243,13.0,Given to me as a gift
+244,13.0,Borrowed from Family
+245,10.0,Given to me as a gift
+246,14.0,Borrowed from Family
+247,13.0,Given to me as a gift
+248,10.0,Borrowed from Family
+249,14.0,Borrowed from Family
+250,22.5,Bought it for myself
+251,12.0,Borrowed from Family
+252,14.0,Given to me as a gift
+253,13.0,Given to me as a gift
+254,12.0,Borrowed from Family
+255,15.0,Bought it for myself
+256,12.0,Given to me as a gift
+257,16.0,Borrowed from friends
+258,15.0,Library
+259,15.0,Library
+260,16.0,Borrowed from Family
+261,20.0,Library
+262,15.0,Bought it for myself
+263,14.0,Bought it for myself
+264,12.0,Bought it for myself
+265,9.0,Given to me as a gift
+266,23.0,Bought it for myself
+267,15.0,Bought it for myself
+268,14.0,Given to me as a gift
+269,16.0,Library
+270,15.0,Bought it for myself
+271,19.0,Online Platform
+272,20.0,Bought it for myself
+273,15.0,Given to me as a gift
+274,16.0,Library
+275,15.0,Given to me as a gift
+276,14.0,Bought it for myself
+277,12.0,Given to me as a gift
+278,14.0,Given to me as a gift
+279,23.0,Bought it for myself
+280,14.0,Bought it for myself
+281,16.0,Given to me as a gift
+282,15.0,Given to me as a gift
+283,10.0,Library
+284,16.0,Bought it for myself
+285,17.0,Bought it for myself
+286,20.0,Given to me as a gift
+287,17.0,Given to me as a gift
+288,12.0,Given to me as a gift
+289,20.0,Bought it for myself
+290,12.0,Bought it for myself
+291,14.0,Bought it for myself
+292,15.0,Bought it for myself
+293,25.0,Bought it for myself
+294,12.0,Bought it for myself
+295,14.0,Given to me as a gift
+296,11.0,Given to me as a gift
+297,15.0,Borrowed from friends
+298,21.0,Bought it for myself
+299,12.0,Bought it for myself
+300,16.0,Bought it for myself
+301,21.0,Bought it for myself
+302,14.0,Given to me as a gift
+303,14.0,Given to me as a gift
+304,,
+305,16.0,Bought it for myself
+306,24.0,Pirated
+307,24.0,Bought it for myself
+308,20.0,Bought it for myself
+309,18.0,Bought it for myself
+310,13.0,Bought it for myself
+311,12.0,Given to me as a gift
+312,13.0,Given to me as a gift
+313,13.0,Bought it for myself
+314,11.0,Borrowed from friends
+315,15.0,
+316,14.0,Borrowed from friends
+317,14.0,Bought it for myself
+318,15.0,Bought it for myself
+319,18.0,Bought it for myself
+320,15.0,Given to me as a gift
+321,12.0,Given to me as a gift
+322,9.0,Bought it for myself
+323,10.0,Given to me as a gift
+324,15.0,Bought it for myself
+325,13.0,Given to me as a gift
+326,15.0,Given to me as a gift
+327,18.0,Bought it for myself
+328,20.0,Bought it for myself
+329,15.0,Library
+330,15.5,Bought it for myself
+331,15.0,Given to me as a gift
+332,13.0,Bought it for myself
+333,26.0,Bought it for myself
+334,12.0,Given to me as a gift
+335,12.0,Bought it for myself
+336,14.0,Library
+337,11.0,Given to me as a gift
+338,18.0,Bought it for myself
+339,20.0,Bought it for myself
+340,19.0,Bought it for myself
+341,14.0,Library
+342,5.0,Given to me as a gift
+343,12.0,Given to me as a gift
+344,14.0,Bought it for myself
+345,9.0,Doesn't Remember
+346,21.0,Bought it for myself
+347,10.0,Borrowed from Family
+348,14.5,Borrowed from Friends or Family
+349,25.0,
+350,12.0,Given to me as a gift
+351,14.0,Borrowed from Family
+352,15.0,Borrowed from Family
+353,14.0,Bought it for myself
+354,16.0,Bought it for myself
+355,16.0,Bought it for myself
+356,21.0,Bought it for myself
+357,13.0,Doesn't Remember
+358,14.0,Bought it for myself
+359,12.0,Borrowed from Family
+360,15.0,Library
+361,15.0,Borrowed from Family
+362,14.0,Bought it for myself
+363,13.0,Given to me as a gift
+364,15.0,Bought it for myself
+365,16.0,Given to me as a gift
+366,13.0,Given to me as a gift
+367,13.0,Given to me as a gift
+368,15.0,Bought it for myself
+369,15.0,Bought it for myself
+370,17.0,Bought it for myself
+371,20.0,Bought it for myself
+372,14.0,Bought it for myself
+373,15.0,Bought it for myself
+374,13.0,Bought it for myself
+375,12.0,Borrowed from Family
+376,14.0,Library
+377,19.0,Bought it for myself
+378,16.0,Bought it for myself
+379,16.0,Library
+380,20.0,Library
+381,13.0,Given to me as a gift
+382,10.0,Borrowed from Family
+383,12.0,Given to me as a gift
+384,16.0,Bought it for myself
+385,22.0,Bought it for myself
+386,22.0,Bought it for myself
+387,19.0,Bought it for myself
+388,15.0,Bought it for myself
+389,20.0,Bought it for myself
+390,14.0,Bought it for myself
+391,14.0,Given to me as a gift
+392,16.0,Given to me as a gift
+393,27.5,Given to me as a gift
+394,26.0,Bought it for myself
+395,9.0,Given to me as a gift
+396,30.0,Bought it for myself
+397,19.0,Bought it for myself
+398,8.0,Given to me as a gift
+399,15.0,Given to me as a gift
+400,22.0,Online Platform
+401,17.0,No Answer
+402,13.0,Given to me as a gift
+403,10.0,Given to me as a gift
+404,17.0,Bought it for myself
+405,12.0,Library
+406,21.0,Bought it for myself
+407,17.0,Bought it for myself
+408,24.0,Bought it for myself
+409,13.0,Borrowed from Family
+410,18.0,Library
+411,11.0,Given to me as a gift
+412,19.0,Library
+413,17.0,Bought it for myself
+414,17.0,Bought it for myself
+415,14.0,Borrowed from Family
+416,15.0,Borrowed from Family
+417,13.0,Bought it for myself
+418,33.0,Borrowed from Family
+419,12.0,Library
+420,22.0,Bought it for myself
+421,15.0,Borrowed from Family
+422,13.0,Library
+423,14.0,Bought it for myself
+424,14.0,Library
+425,13.5,Bought it for myself
+426,12.0,Given to me as a gift
+427,21.0,Bought it for myself
+428,12.0,Borrowed from Friends or Family
+429,23.0,Library
+430,10.0,Given to me as a gift
+431,22.0,Bought it for myself
+432,11.0,Library
+433,12.0,Borrowed from Family
+434,21.0,Bought it for myself
+435,13.0,Library
+436,20.0,Pirated
+437,18.0,Bought it for myself
+438,14.0,Library
+439,16.0,Bought it for myself
+440,24.0,Bought it for myself
+441,13.0,Bought it for myself
+442,17.0,Borrowed from Friends or Family
+443,13.0,Given to me as a gift
+444,13.0,Bought it for myself
+445,13.0,Given to me as a gift
+446,14.0,Bought it for myself
+447,11.0,Bought it for myself
+448,16.0,Borrowed from Family
+449,14.0,Bought it for myself
+450,12.0,Given to me as a gift
+451,15.0,Given to me as a gift
+452,12.0,Given to me as a gift
+453,12.0,Borrowed from Family
+454,14.0,Given to me as a gift
+455,20.5,Given to me as a gift
+456,20.0,Bought it for myself
+457,20.0,Bought it for myself
+458,27.0,Bought it for myself
+459,11.0,Borrowed from Family
+460,15.0,Bought it for myself
+461,14.0,Borrowed from Family
+462,13.0,Given to me as a gift
+463,10.0,Bought it for myself
+464,18.5,Bought it for myself
+465,17.0,Bought it for myself
+466,16.0,Given to me as a gift
+467,20.0,Bought it for myself
+468,13.5,Borrowed from Family
+469,12.0,Bought it for myself
+470,14.0,Borrowed from friends
+471,17.0,Bought it for myself
+472,14.0,Bought it for myself
+473,14.0,Borrowed from Family
+474,16.0,Library
+475,16.0,Given to me as a gift
+476,15.0,Borrowed from Family
+477,10.0,Borrowed from Family
+478,20.0,Borrowed from Friends or Family
+479,22.0,Bought it for myself
+480,18.0,Library
+481,21.0,Borrowed from friends
+482,25.0,Bought it for myself
+483,21.0,Bought it for myself
+484,13.0,Library
+485,11.0,Library
+486,12.0,Library
+487,23.0,Bought it for myself
+488,15.0,Bought it for myself
+489,14.0,Bought it for myself
+490,19.0,Given to me as a gift
+491,14.0,
+492,12.0,Given to me as a gift
+493,14.0,Bought it for myself
+494,22.0,Bought it for myself
+495,14.0,Borrowed from Family
+496,15.0,Borrowed from friends
+497,26.0,Bought it for myself
+498,14.0,Bought it for myself
+499,13.0,Given to me as a gift
+500,12.0,Given to me as a gift
+501,21.0,Bought it for myself
+502,20.0,Borrowed from friends
+503,17.0,Bought it for myself
+504,19.0,Bought it for myself
+505,16.0,Bought it for myself
+506,13.0,Bought it for myself
+507,17.0,Library
+508,14.0,Bought it for myself
+509,20.0,Borrowed from Friends or Family
+510,18.0,Library
+511,17.0,Bought it for myself
+512,17.0,Bought it for myself
+513,14.0,Library
+514,20.0,Bought it for myself
+515,16.0,Given to me as a gift
+516,16.0,Bought it for myself
+517,17.0,Given to me as a gift
+518,18.0,Library
+519,14.0,Library
+520,15.0,Bought it for myself
+521,19.0,Bought it for myself
+522,22.0,Borrowed from friends
+523,19.0,Bought it for myself
+524,15.0,Borrowed from Family
+525,23.0,Bought it for myself
+526,16.0,Borrowed from friends
+527,11.0,Given to me as a gift
+528,22.0,Bought it for myself
+529,14.0,Library
+530,11.0,Given to me as a gift
+531,21.0,Bought it for myself
+532,12.0,Library
+533,17.0,Given to me as a gift
+534,13.0,Given to me as a gift
+535,16.0,Bought it for myself
+536,16.0,Bought it for myself
+537,25.0,Bought it for myself
+538,15.0,Borrowed from Family
+539,21.0,Bought it for myself
+540,17.0,Online Platform
+541,16.0,Bought it for myself
+542,13.0,Borrowed from Family
+543,19.0,Borrowed from friends
+544,16.0,Borrowed from friends
+545,18.0,Borrowed from friends
+546,8.0,Given to me as a gift
+547,17.0,Bought it for myself
+548,15.0,Borrowed from Family
+549,20.0,Bought it for myself
+550,20.0,Bought it for myself
+551,14.0,Borrowed from Family
+552,25.0,Bought it for myself
+553,12.0,Given to me as a gift
+554,17.0,Given to me as a gift
+555,21.0,Bought it for myself
+556,13.0,Bought it for myself
+557,20.0,Bought it for myself
+558,19.0,Bought it for myself
+559,13.0,Library
+560,17.0,Bought it for myself
+561,17.0,Bought it for myself
+562,18.5,Bought it for myself
+563,23.0,Library
+564,14.0,Given to me as a gift
+565,20.0,Given to me as a gift
+566,35.0,Bought it for myself
+567,37.0,Bought it for myself
+568,11.0,Given to me as a gift
+569,21.0,Bought it for myself
+570,22.0,Bought it for myself
+571,16.0,Given to me as a gift
+572,16.0,Bought it for myself
+573,16.0,Bought it for myself
+574,17.0,Given to me as a gift
+575,17.0,Given to me as a gift
+576,23.0,Bought it for myself
+577,16.0,Given to me as a gift
+578,27.0,Bought it for myself
+579,17.0,Borrowed from friends
+580,16.0,Bought it for myself
+581,13.5,Bought it for myself
+582,19.0,Bought it for myself
+583,16.0,Library
+584,13.0,Borrowed from friends
+585,22.0,Bought it for myself
+586,12.0,Library
+587,16.0,Online Platform
+588,10.0,Bought it for myself
+589,12.0,Borrowed from Family
+590,17.0,Given to me as a gift
+591,12.0,No Answer
+592,40.0,Stolen
+593,14.0,Library
+594,16.0,Bought it for myself
+595,17.0,Pirated
+596,15.0,Bought it for myself
